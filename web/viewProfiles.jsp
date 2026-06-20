@@ -47,43 +47,40 @@
               Student Profile List
           </h2>
   
-<!-- SEARCH FORM START -->
-<form action="viewProfilesServlet"
-      method="get"
-      class="mb-4">
 
-    <div class="row">
+        <form action="viewProfilesServlet"
+              method="get"
+              class="mb-4">
 
-        <div class="col-md-8">
+            <div class="row">
 
-            <input type="text"
-                   name="keyword"
-                   class="form-control"
-                   placeholder="Search by Student ID or Name">
+                <div class="col-md-8">
 
-        </div>
+                   <input type="text"
+                          name="keyword"
+                          class="form-control"
+                          placeholder="Search by Student ID or Name">
 
-        <div class="col-md-4">
+               </div>
 
-            <button type="submit"
+               <div class="col-md-4">
+
+                 <button type="submit"
                     style="
                         padding:8px 20px;
                         background:#8b5cf6;
                         color:white;
                         border:none;
                         border-radius:6px;">
-                Search
-            </button>
+                     Search
+                 </button>
+               </div>
 
-        </div>
+            </div>
+        </form>
 
-    </div>
 
-</form>
-<!-- SEARCH FORM END -->
-
-<table class="table table-bordered table-hover">
-          <table class="table table-bordered table-hover">
+        <table class="table table-bordered table-hover">
               <thead class="table-dark">
                   <tr>
                       <th>Student ID</th>
