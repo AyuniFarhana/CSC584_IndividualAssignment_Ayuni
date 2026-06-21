@@ -1,5 +1,10 @@
 # CSC584_IndividualAssignment_Ayuni
 Individual Assignment 2 CSC584
+
+AYUNI FARHANA BINTI ROSLI (2024234738)
+CDCS2664A
+
+
 PROJECT DESCRIPTION
 The Personal Profile Management System is a web-based application developed using HTML, Java Servlet, JSP, JavaBean, JDBC, and Database. The system allows users to manage student profile information efficiently by storing data in a database rather than displaying it temporarily.
 The application follows the Model-View-Controller (MVC) architecture, where the JavaBean acts as the Model, JSP pages serve as the View, and Servlets function as the Controller. Users can create, view, update, search, and delete profile records through a user-friendly interface.
