@@ -21,4 +21,7 @@ A confirmation message is displayed before deletion
 Search Profile
 User can search profile using Student ID or Name
 
-Screenshots of the System (in Individual Assignment File)
+Screenshots of the System 
+Start page
+<img width="1280" height="585" alt="image" src="https://github.com/user-attachments/assets/e05309f9-0a4d-429b-bd99-b677549efb9f" />
+
